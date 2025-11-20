@@ -13,7 +13,6 @@ height: 400px;
 
 .center {
 flex: 1;
-background: #a7a7a7;
 }
 
 
@@ -41,4 +40,5 @@ background: #ca7e55;
 
 .toi{
     display: flex;
+
 }
