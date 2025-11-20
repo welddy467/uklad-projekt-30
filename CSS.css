@@ -1,0 +1,44 @@
+.top{
+    background-color: red;
+    height: 150px;
+    width: 83%;
+}
+
+
+.middle {
+height: 400px;
+}
+
+
+
+.center {
+flex: 1;
+background: #a7a7a7;
+}
+
+
+
+
+.right {
+    display: flex;
+    justify-content: end;
+width: 300px;
+background: #01a735;
+height: 730px;
+}
+
+
+
+
+
+
+.bottom {
+height: 120px;
+background: #ca7e55;
+}
+
+
+
+.toi{
+    display: flex;
+}
